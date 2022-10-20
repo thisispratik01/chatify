@@ -1,16 +1,30 @@
-# chatify_app
 
-A new Flutter project.
+# Flutter Chat Application 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots :
+<img src="https://github.com/thisispratik01/chatify/blob/main/ss/register.jpeg" width="300" height="600" />
+<img src="https://github.com/thisispratik01/chatify/blob/main/ss/login.jpeg" width="300" height="600" /> 
+<img src="https://github.com/thisispratik01/chatify/blob/main/ss/groupchat.jpeg" width="300" height="600" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- User Authentication using email id .
+- One to one chat .
+- Group Chat .
+
+## Steps to run this project 
+
+- Download repoasitory and open in VS Code .
+
+- open terminal and run command '''flutter pub get'''
+- Now Connect flutter app to firebase ,tutorial link is mentioned below -
+- [Click here](https://youtu.be/sz4slPFwEvs)
+
+- After successful connection make sure "Firestore db , email authentication is turned on .
+- make sure to configure firestore db rules as you need .
+- After all this setup connect your android device and click on run button  (Developer mode and USB debugging must be on) .
+
+
+
