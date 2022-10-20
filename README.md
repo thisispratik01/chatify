@@ -7,6 +7,8 @@
 <img src="https://github.com/thisispratik01/chatify/blob/main/ss/register.jpeg" width="300" height="600" />
 <img src="https://github.com/thisispratik01/chatify/blob/main/ss/login.jpeg" width="300" height="600" /> 
 <img src="https://github.com/thisispratik01/chatify/blob/main/ss/groupchat.jpeg" width="300" height="600" />
+<img src="https://github.com/thisispratik01/chatify/blob/main/ss/onetoone.jpeg" width="300" height="600" />
+<img src="https://github.com/thisispratik01/chatify/blob/main/ss/chatone.jpeg" width="300" height="600" />
 
 ## Features
 
