@@ -24,7 +24,7 @@
 - Now Connect flutter app to firebase ,tutorial link is mentioned below -
 - [Click here](https://youtu.be/sz4slPFwEvs)
 
-- After successful connection make sure "Firestore db , email authentication is turned on .
+- After successful connection make sure "Firestore db , email authentication " is turned on .
 - make sure to configure firestore db rules as you need .
 - After all this setup connect your android device and click on run button  (Developer mode and USB debugging must be on) .
 
