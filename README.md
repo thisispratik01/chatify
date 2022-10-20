@@ -28,5 +28,11 @@
 - make sure to configure firestore db rules as you need .
 - After all this setup connect your android device and click on run button  (Developer mode and USB debugging must be on) .
 
+## Tech Used
+Flutter and Firebase , Provider(State management) .
 
+    
+## Feedback
+
+If you have any feedback, please reach out to me at pratik99dhumal@gmail.com
 
